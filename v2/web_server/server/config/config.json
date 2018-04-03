@@ -1,0 +1,4 @@
+{
+  "mongoDbUri": "mongodb://annie91:bitTigerCS503@ds231719.mlab.com:31719/cs503",
+  "jwtSecret": "a secret phrase!!"
+}
